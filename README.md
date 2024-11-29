@@ -14,7 +14,7 @@
 
 <h2>Features<h2/>
 
-  <li>Add task
-  <li>Delete task
-  <li>Update task status
-  <li>Intuitive UI using shadcn
+- Add task
+- Delete task
+- Update task status
+- Intuitice UI using shadcn
